@@ -5,8 +5,8 @@ const ipcMain = require('electron').ipcMain;
 //const sanitize = require('sanitize-filename');
 const dataaction = require('./dataaction');
 var config = require('./data/config.json');
-console.log(config);
-console.log("Dataaction", dataaction);
+// console.log(config);
+// console.log("Dataaction", dataaction);
 var fileName;
 var currentCount=0;
 //from where you want to start process file.
