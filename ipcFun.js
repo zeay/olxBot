@@ -104,7 +104,6 @@ ipcMain.on('submitEntry', function(event, data){
         fs.writeFile(directory, stringData01, (err)=>{
             if(!err){
                 console.log('Entry Saved');
-                apiModule.apiCall24(data);
             }else{
                 console.log("error saving finale data");
             }
