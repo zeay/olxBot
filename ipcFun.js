@@ -9,7 +9,6 @@ console.log(config);
 console.log("Dataaction", dataaction);
 var fileName;
 var currentCount=0;
-var apiModule = require('./apiModule');
 //from where you want to start process file.
 //note finale14 index 430 extract beyond it
 var index = 0;
