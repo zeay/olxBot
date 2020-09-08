@@ -1,0 +1,10 @@
+
+{
+    "query":"cars",
+    "email": ["vimobe2490@lywenw.com"],    
+    "pass": "guess@007",
+    "fileName": "./data/finaleData/nitro10.json",
+    "loadMore": "5",
+    "mainScrapper": "false",
+    "count": 20
+}
